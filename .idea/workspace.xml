@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee353440-33cf-4e5a-915f-0400e51446d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaiTap Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/TestShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week1/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week1/SumtoN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Motorbike.java" afterDir="false" />
-    </list>
+    <list default="true" id="ee353440-33cf-4e5a-915f-0400e51446d4" name="Changes" comment="re-upload project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +29,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/KH/IdeaProjects/BaiTap Java"
   }
 }]]></component>
@@ -69,9 +47,30 @@
       <option name="presentableId" value="Default" />
       <updated>1676344879455</updated>
     </task>
+    <task id="LOCAL-00001" summary="re-upload project">
+      <created>1676346999447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676346999447</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="re-upload project" />
+    <option name="LAST_COMMIT_MESSAGE" value="re-upload project" />
   </component>
 </project>
