@@ -1,6 +1,8 @@
 package Employee;
 
+
 public class Employee {
+    int id;
     String name;
     int salary;
     public Employee(String name,int salary){
@@ -22,7 +24,9 @@ public class Employee {
     public void display(){
         System.out.println("Name = "+getName()+"\nSalary = "+getSalary());
     }
+
     public static void main(String[] args){
+
         Employee e1 = new Employee("khamdaeng", 1000000);
         e1.display();
     }
