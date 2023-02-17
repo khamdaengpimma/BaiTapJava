@@ -1,11 +1,9 @@
 package Employee;
 
-import Employee.Employee;
-
 public class Manager extends Employee {
     int bonus;
-    public Manager(String name, int salary,int bonus){
-        super(name,salary);
+    public Manager(int id,String name, int salary,int bonus){
+        super(id,name,salary);
         this.bonus = bonus;
     }
     public void setBonus(int bonus){

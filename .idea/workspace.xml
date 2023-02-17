@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee353440-33cf-4e5a-915f-0400e51446d4" name="Changes" comment="re-upload project">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee/ShowDataFromDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee/TestEmployee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaiTap Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTap Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee/ShowDataFromDatabase.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
