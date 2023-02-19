@@ -10,12 +10,12 @@ public class TestEmployee {
         Employee[] list = {e1, e2, e3, e4};
         for (Employee e: list
         ) {
-//          e.insertData();
-//          e.DeleteData();
-//            e.UpdateData();
-//            e.ShowData();
+              e.insertData();
+              e.DeleteData();
+              e.UpdateData();
+              e.ShowData();
 
         }
-        e4.ShowData();
+//        e4.ShowData();
     }
 }
