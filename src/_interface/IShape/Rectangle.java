@@ -1,6 +1,8 @@
-package _interface;
+package _interface.IShape;
 
-public class Rectangle implements IShape{
+import _interface.IShape.IShape;
+
+public class Rectangle implements IShape {
     double length;
     double width;
     public Rectangle(double l,double w){

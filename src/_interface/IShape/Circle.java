@@ -1,6 +1,6 @@
-package _interface;
+package _interface.IShape;
 
-public class Circle implements IShape{
+public class Circle implements IShape {
     double Radius;
     public Circle(double r){
         this.Radius = r;

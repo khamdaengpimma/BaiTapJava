@@ -1,4 +1,7 @@
-package _interface;
+package _interface.IShape;
+
+import _interface.IShape.IShape;
+import _interface.IShape.Rectangle;
 
 public class TestInterface {
     public static void main(String[] args){
