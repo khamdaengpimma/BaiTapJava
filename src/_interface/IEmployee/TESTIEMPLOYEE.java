@@ -1,10 +1,5 @@
 package _interface.IEmployee;
 
-import _interface.IEmployee.Employee;
-import _interface.IEmployee.FullTimeEmployee;
-import _interface.IEmployee.IEmployee;
-import _interface.IEmployee.PartTimeEmployee;
-
 public class TESTIEMPLOYEE {
     public static void main(String[] args){
         IEmployee a = new Employee("KH",20);

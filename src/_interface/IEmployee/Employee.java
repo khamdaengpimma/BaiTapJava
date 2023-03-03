@@ -1,7 +1,5 @@
 package _interface.IEmployee;
 
-import _interface.IEmployee.IEmployee;
-
 public class Employee implements IEmployee {
     public String name;
     public int paymentPerHour;

@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee353440-33cf-4e5a-915f-0400e51446d4" name="Changes" comment="add package Interface">
-      <change afterPath="$PROJECT_DIR$/src/_interface/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_interface/FullTimeEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_interface/IEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_interface/PartTimeEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_interface/TESTIEMPLOYEE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Pizza/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Pizza/IShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Pizza/PizzaClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Pizza/PizzaDeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Pizza/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_interface/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_interface/IShape/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_interface/IShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_interface/IShape/IShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_interface/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_interface/IShape/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_interface/TestInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_interface/IShape/TestInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_interface/IEmployee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_interface/IEmployee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_interface/IEmployee/FullTimeEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_interface/IEmployee/FullTimeEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_interface/IEmployee/PartTimeEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_interface/IEmployee/PartTimeEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_interface/IEmployee/TESTIEMPLOYEE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_interface/IEmployee/TESTIEMPLOYEE.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,24 +53,46 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/KH/IdeaProjects/BaiTap Java/src/Employee",
+    "last_opened_file_path": "C:/Users/KH/IdeaProjects/BaiTap Java/src/_interface",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "Settings.Markdown"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KH\IdeaProjects\BaiTap Java\src\_interface" />
       <recent name="C:\Users\KH\IdeaProjects\BaiTap Java\src\Employee" />
       <recent name="C:\Users\KH\IdeaProjects\BaiTap Java\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KH\IdeaProjects\BaiTap Java\src\_interface\IEmployee" />
       <recent name="C:\Users\KH\IdeaProjects\BaiTap Java\src\Week2" />
       <recent name="C:\Users\KH\IdeaProjects\BaiTap Java\src\Person" />
       <recent name="C:\Users\KH\IdeaProjects\BaiTap Java\src\Shape" />
       <recent name="C:\Users\KH\IdeaProjects\BaiTap Java\src\Employee" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_interface.IShape.TestInterface" />
+      <module name="BaiTap Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_interface.IShape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestInterface" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -136,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676858753743</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add package Interface">
+      <created>1676899763551</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676899763551</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add package Interface">
+      <created>1676899905241</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676899905241</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,5 +193,9 @@
     <MESSAGE value="add showdata" />
     <MESSAGE value="add package Interface" />
     <option name="LAST_COMMIT_MESSAGE" value="add package Interface" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

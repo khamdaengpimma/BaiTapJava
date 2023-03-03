@@ -1,7 +1,5 @@
 package _interface.IEmployee;
 
-import _interface.IEmployee.Employee;
-
 public class PartTimeEmployee extends Employee {
     int WorkingHours;
     public PartTimeEmployee(String name, int paymentPerHour,int WorkingHours) {

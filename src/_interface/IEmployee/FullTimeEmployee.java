@@ -1,7 +1,5 @@
 package _interface.IEmployee;
 
-import _interface.IEmployee.Employee;
-
 public class FullTimeEmployee extends Employee {
     public FullTimeEmployee(String name, int paymentPerHour) {
         super(name, paymentPerHour);
