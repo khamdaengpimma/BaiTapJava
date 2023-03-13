@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee353440-33cf-4e5a-915f-0400e51446d4" name="Changes" comment="add image PizzaClient">
-      <change afterPath="$PROJECT_DIR$/src/_abstractShape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_abstractShape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_abstractShape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_abstractShape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_abstractShape/TestShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_abstractShape/TestShape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_abstractShape/TestShape2.png" afterDir="false" />
+    <list default="true" id="ee353440-33cf-4e5a-915f-0400e51446d4" name="Changes" comment="project AbstracShape">
+      <change afterPath="$PROJECT_DIR$/src/File/FileTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/file_read.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/file_writer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678065468158</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="project AbstracShape">
+      <created>1678548629710</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678548629710</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,13 +197,17 @@
     <MESSAGE value="add package Interface" />
     <MESSAGE value="add image tester" />
     <MESSAGE value="add image PizzaClient" />
-    <option name="LAST_COMMIT_MESSAGE" value="add image PizzaClient" />
+    <MESSAGE value="project AbstracShape" />
+    <option name="LAST_COMMIT_MESSAGE" value="project AbstracShape" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BaiTap_Java$TESTIEMPLOYEE.ic" NAME="TESTIEMPLOYEE Coverage Results" MODIFIED="1678636576896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>_interface.IEmployee.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/BaiTap_Java$TestInterface.ic" NAME="TestInterface Coverage Results" MODIFIED="1678064519129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>_interface.IShape.*</FILTER>
     </SUITE>
