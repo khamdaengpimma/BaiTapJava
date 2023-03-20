@@ -1,7 +1,7 @@
 package Duck;
 
 public class FlyWithWings implements Flyable{
-    @Override
+        @Override
     public void fly() {
         System.out.println("I'm Flying with Wings");
     }
